@@ -4,7 +4,7 @@ Korhogo Fauna, by Mauk Tenieb: concept albums, 18 avatars, lore. Experimental Hi
 
 **Online: https://mauktenieb.github.io/katabase**
 
-Transmedia Underground Worldbuilder. Lure, Lore, More.
+Transmedia Underground Worldbuilder.
 
 ## Files
 
