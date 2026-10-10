@@ -20,20 +20,13 @@ Transmedia Underground Worldbuilder. Lure, Lore, More.
 - Bio: https://orcid.org/0009-0007-9096-8267
 
 <!-- network:start -->
-## Mauk Tenieb on GitHub
+## Korhogo Fauna
 
-- [mauktenieb.github.io](https://mauktenieb.github.io/): Start here: every site and link.
-- [insertkoin](https://github.com/MaukTenieb/insertkoin) · [site](https://mauktenieb.github.io/insertkoin/): Insert Koin, the browser arcade: Puck You!, Fauna Chess, Erratik, Faunarratik, Katabatik.
-- [3615](https://github.com/MaukTenieb/3615) · [site](https://mauktenieb.github.io/3615/): 3615 KORHOGO, a Minitel terminal in the browser.
-- [korhogo](https://github.com/MaukTenieb/korhogo) · [site](https://mauktenieb.github.io/korhogo/): The first Korhogo site.
-- [reporhogo](https://github.com/MaukTenieb/reporhogo) · [site](https://mauktenieb.github.io/reporhogo/): One topic, forty-one code forges (MIT).
-- [Photofauna](https://github.com/MaukTenieb/Photofauna) · [site](https://mauktenieb.github.io/insertkoin/fotofauna.html): The pocket photo emulator.
-- [detour](https://github.com/MaukTenieb/detour): Cuts a sheet of eight portraits into a sprite strip (Python).
-- [torview](https://github.com/MaukTenieb/torview) · [site](https://mauktenieb.github.io/torview/): Minimal Tor webview browser (Go).
-- [faunator](https://github.com/MaukTenieb/faunator) · [site](https://mauktenieb.github.io/faunator/): Tor inside a web page: web and .onion, no extension (MIT).
-- [korhotube](https://github.com/MaukTenieb/korhotube): All the videos of a YouTube channel as JSON: tags, chapters, dubbing, dates (MIT).
+Mauk Tenieb's transmedia world. [Insert Koin](https://mauktenieb.github.io/insertkoin/): the browser arcade · [3615 KORHOGO](https://mauktenieb.github.io/3615/): the Minitel terminal.
 
-Artist: https://github.com/MaukTenieb · Music and sales: https://mauktenieb.bandcamp.com · Journal: https://korhogo.substack.com · Bio: https://orcid.org/0009-0007-9096-8267
+[Bandcamp](https://mauktenieb.bandcamp.com): music and sales · [Substack](https://korhogo.substack.com): the journal · [YouTube](https://www.youtube.com/@mauktenieb): clips and mini-films.
+
+Start here: https://mauktenieb.github.io/
 <!-- network:end -->
 
 ## Rights
