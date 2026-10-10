@@ -1,6 +1,6 @@
-# Korhogo Fauna — Katabase
+# Korhogo — Katabase
 
-Korhogo Fauna, by Mauk Tenieb: concept albums, 18 avatars, lore. Experimental Hip-Hop, Illbient, IDM, Experimental Dub.
+Korhogo, by Mauk Tenieb: concept albums, the 18 avatars of the Korhogo Fauna, lore. Experimental Hip-Hop, Illbient, IDM, Experimental Dub.
 
 **Online: https://mauktenieb.github.io/katabase**
 
@@ -20,7 +20,7 @@ Transmedia Underground Worldbuilder.
 - Bio: https://orcid.org/0009-0007-9096-8267
 
 <!-- network:start -->
-## Korhogo Fauna
+## Korhogo
 
 Mauk Tenieb's transmedia world. [Insert Koin](https://mauktenieb.github.io/insertkoin/): the browser arcade · [3615 KORHOGO](https://mauktenieb.github.io/3615/): the Minitel terminal.
 
