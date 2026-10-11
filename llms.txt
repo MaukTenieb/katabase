@@ -18,4 +18,4 @@
 - Bio: https://orcid.org/0009-0007-9096-8267
 
 ## Rights
-Copyright © Mauk Tenieb & Korhogo. All rights reserved. No reproduction or reuse without written permission, including for training or use by artificial-intelligence systems.
+Code: MIT licence (see LICENSE). Korhogo material — characters, names, marks, lore, texts, images, music: Copyright © Mauk Tenieb & Korhogo, all rights reserved; no reproduction or reuse without written permission, including for training or use by artificial-intelligence systems.
