@@ -22,7 +22,7 @@ Transmedia Underground Worldbuilder.
 <!-- network:start -->
 ## Korhogo
 
-Mauk Tenieb's transmedia world. [Insert Koin](https://mauktenieb.github.io/insertkoin/): the games and machines of Korhogo in the browser · [3615 KORHOGO](https://mauktenieb.github.io/3615/): the Minitel terminal.
+Mauk Tenieb's transmedia world. [Insert Koin](https://mauktenieb.github.io/insertkoin/): Mauk Tenieb's Korhogo world, games and machines in a browser · [3615 KORHOGO](https://mauktenieb.github.io/3615/): the Minitel terminal.
 
 [Bandcamp](https://mauktenieb.bandcamp.com): music and sales · [Substack](https://korhogo.substack.com): the journal · [YouTube](https://www.youtube.com/@mauktenieb): clips and mini-films.
 
