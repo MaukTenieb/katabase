@@ -7,7 +7,7 @@
 > Korhogo is Mauk Tenieb's fictional world; the Korhogo Fauna, aka the Masks, are its 18 inhabitants. Korhogo also names a city in Ivory Coast and a Senufo cloth; Mauk Tenieb's Korhogo stands apart from both.
 
 ## Links
-- [Start here — mauktenieb.github.io](https://mauktenieb.github.io/)
+- [mauktenieb.github.io, the index of Mauk Tenieb's sites](https://mauktenieb.github.io/)
 - Artist: https://github.com/MaukTenieb
 - Work: https://mauktenieb.github.io/katabase
 - Game: https://mauktenieb.github.io/insertkoin
