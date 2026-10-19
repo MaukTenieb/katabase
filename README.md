@@ -1,6 +1,6 @@
 # Korhogo Fauna — Katabase
 
-Korhogo, by Mauk Tenieb: concept albums, the 18 avatars of the Korhogo Fauna, also known as Hordalék or the Masks, lore. Experimental Hip-Hop, Illbient, IDM, Experimental Dub.
+Korhogo, by Mauk Tenieb: concept albums, the 18 avatars of the Korhogo Fauna, aka the Masks, lore. Experimental Hip-Hop, Illbient, IDM, Experimental Dub.
 
 **Online: https://mauktenieb.github.io/katabase**
 
