@@ -9,7 +9,7 @@ Transmedia Underground Worldbuilder.
 ## Files
 
 - `index.html`: the whole site.
-- `robots.txt`, `sitemap.xml`, `llms.txt`: for search and answer engines. Training crawlers are refused.
+- `robots.txt`, `sitemap.xml`, `llms.txt`: for search and answer engines. robots.txt turns away training crawlers.
 
 ## Links
 
@@ -31,4 +31,4 @@ Index of Mauk Tenieb's sites: https://mauktenieb.github.io/
 
 ## Rights
 
-Code: MIT licence (see `LICENSE`). Korhogo material — characters, names, marks, lore, texts, images, music: Copyright © Mauk Tenieb & Korhogo, all rights reserved; no reproduction or reuse without written permission, including for training or use by artificial-intelligence systems.
+Code under MIT, method under CC BY 4.0, Korhogo material reserved (characters, names, marks, lore, texts, images, videos, music). Credit for any reuse: Mauk Tenieb & Korhogo. A person may use an AI assistant to read, explain and adapt the code and the method; training of AI models: reserved. Details: LICENSE.
