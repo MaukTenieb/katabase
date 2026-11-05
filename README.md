@@ -9,6 +9,7 @@ Transmedia Underground Worldbuilder.
 ## Files
 
 - `index.html`: the whole site.
+- `img/`: the site's images, in WebP.
 - `robots.txt`, `sitemap.xml`, `llms.txt`: for search and answer engines. robots.txt turns away training crawlers.
 
 ## Links
