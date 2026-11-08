@@ -479,9 +479,10 @@
     });
   }
   buttons.forEach(function(btn){
-    btn.addEventListener('click', function(){ setLang(btn.getAttribute('data-set')); });
+    btn.addEventListener('click', function(){ var l=btn.getAttribute('data-set'); setLang(l); try{ localStorage.setItem('ik.lang', l); }catch(e){} });
   });
-  setLang('en');
+  /* une seule clé de langue pour tout l'écosystème (ik.lang), anglais par défaut */
+  setLang((function(){ try{ return localStorage.getItem('ik.lang')==='fr' ? 'fr' : 'en'; }catch(e){ return 'en'; } })());
 })();
 </script>
 </body>
