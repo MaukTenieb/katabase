@@ -80,9 +80,7 @@
 <meta content="index, follow, noimageindex, noai, noimageai" name="robots">
 <meta content="noimageindex" name="googlebot">
 <meta content="© Korhogo. Images not licensed for AI / ML training or generative AI data mining, and excluded from image indexing. Text may be indexed and crawled freely." name="dc.rights">
-<link href="https://fonts.googleapis.com" rel="preconnect">
-<link crossorigin href="https://fonts.gstatic.com" rel="preconnect">
-<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,440;1,9..144,380;1,9..144,500&amp;family=Space+Mono:wght@400;700&amp;display=swap" rel="stylesheet">
+<link href="fonts.css" rel="stylesheet">
 <style>
   :root{
     --void:    #0b0906;
@@ -180,6 +178,7 @@
     background-color:var(--void);
     background-attachment:fixed;
   }
+  @media (hover:none), (pointer:coarse){ .fullplate-bg{ background-attachment:scroll; } }
   .fullplate .scrim{
     position:absolute; inset:0; z-index:1;
     background:linear-gradient(to top, rgba(11,9,6,.94) 0%, rgba(11,9,6,.35) 48%, rgba(11,9,6,.06) 78%);
