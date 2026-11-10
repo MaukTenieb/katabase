@@ -11,7 +11,7 @@
 - Artist: https://github.com/MaukTenieb
 - Work: https://mauktenieb.github.io/katabase
 - Game: https://mauktenieb.github.io/insertkoin
-- Minitel: https://mauktenieb.github.io/3615/
+- MiniTale: https://mauktenieb.github.io/3615/
 - Music and sales: https://mauktenieb.bandcamp.com
 - Discography: https://musicbrainz.org/artist/701a6795-f583-4567-b8f4-0d05f961d63f
 - Journal: https://korhogo.substack.com
